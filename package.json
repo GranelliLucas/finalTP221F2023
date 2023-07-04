@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "finaltp2granellilucas",
+  "version": "0.0.1",
+  "description": "final tp2 granelli lucas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js"
+  },
+  "author": "LIG",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.2"
+  }
+}
